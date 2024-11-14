@@ -1,0 +1,20 @@
+[
+    {
+        "question" : "Mi a vas vegyjele?",
+        "answers" : [
+            { "id": 1, "answer":"Fe", "isCorrect": true },
+            { "id": 2, "answer":"Ag", "isCorrect": false },
+            { "id": 3, "answer":"C", "isCorrect": false },
+            { "id": 4, "answer":"Cu", "isCorrect": false }
+        ]
+    },
+    {
+        "question" : "Mi a szén vegyjele?",
+        "answers" : [
+            { "id": 1, "answer":"C", "isCorrect": true  },
+            { "id": 2, "answer":"Ag", "isCorrect": false  },
+            { "id": 3, "answer":"Fe", "isCorrect": false  },
+            { "id": 4, "answer":"Cu", "isCorrect": false  }
+        ]
+    }
+]
